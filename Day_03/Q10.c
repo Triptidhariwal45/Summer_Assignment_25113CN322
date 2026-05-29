@@ -3,7 +3,7 @@ int main(){
     int start, end, i, j, isPrime;
     printf("Enter the starting and ending number:");
     scanf("%d %d",&start, &end);
-    prrintf("prime numbers between %d and %d are:", start, end);
+    printf("prime numbers between %d and %d are:", start, end);
     for(i=start; i<=end; i++){
         if(i<2){
             continue;
