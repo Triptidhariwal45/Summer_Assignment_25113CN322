@@ -16,4 +16,5 @@ int main(){
         }
         printf("Nth Fibonacci term=%d",b);
     }
+    return 0;
 }
