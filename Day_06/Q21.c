@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int num binary[32], i=0;
+    int num ,binary[32], i=0;
     printf("Enter a decimal number:");
     scanf("%d",&num);
     while(num>0){
